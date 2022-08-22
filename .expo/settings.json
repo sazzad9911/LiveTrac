@@ -5,6 +5,6 @@
   "minify": false,
   "urlRandomness": null,
   "https": false,
-  "scheme": "exp+livetrac",
-  "devClient": false
+  "scheme": "com.sazzad991.LiveTrac",
+  "devClient": true
 }
